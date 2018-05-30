@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/u211-01/Desktop/Kozlov_Lab4/Part1/main.cpp
+iostream
+-
+assert.h
+-
+cstdint
+-
+
